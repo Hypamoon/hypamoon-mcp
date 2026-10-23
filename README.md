@@ -91,9 +91,8 @@ An owner can also limit a key or a connection to a few sites and apps. More: htt
 We would rather say no than let something go wrong in a customer's name. This is what is in place today.
 
 - **Test and live.** A test key or test project keeps everything simulated: no money moves, no real calls, test payments only.
-- **You confirm what cannot be undone.** When a chat connected with OAuth asks for something you cannot take back, like deleting a site, releasing a number, changing DNS on a live domain, changing who is in the team or moving to live, the tool does not do it. It answers with a link to the portal. You read what will happen in plain words and confirm with your passkey. Cancel changes nothing.
 - **Four eyes, if you want them.** An owner can turn on four-eyes approval. A live deploy or a deleted site then waits for a second owner or builder. Nobody approves their own change, not even one made by their own agent.
-- **No money from the chat.** Connecting your payment account and agreeing to our fee only happen in the portal, by the owner. In Claude, Claude Code and ChatGPT a refund or a domain purchase never happens from the chat itself. You check the amount and click in the portal, or nothing happens.
+- **Money stays with the owner.** Connecting your payment account and agreeing to our fee only happen in the portal, by the owner.
 - **Passwords stay out of the chat.** When your chat needs a key for another service, it asks you to paste it in the portal, not in the conversation.
 - **Calls with manners.** Before every live call your chat tells you who it will call and why, and waits for your yes. The voice assistant always says it is a digital assistant and asks if it is a good time; that cannot be switched off. Sales calls only go out when the person's consent is recorded, and only within calling hours. Outbound calls need a verified account.
 - **Checks on every site.** Fake login pages, card fields and forms that send data elsewhere do not go live. Public sites are checked daily against lists of known phishing and malware.
