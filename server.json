@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.hypamoon/hypamoon",
+  "title": "Hypamoon",
+  "description": "Where AI lives: sites, apps, data, domains, email, payments and a phone line, live from your chat.",
+  "version": "1.0.1",
+  "websiteUrl": "https://hypamoon.com/docs/mcp",
+  "repository": {
+    "url": "https://github.com/Hypamoon/hypamoon-mcp",
+    "source": "github"
+  },
+  "icons": [
+    { "src": "https://hypamoon.com/icon-512.png", "mimeType": "image/png", "sizes": ["512x512"] },
+    { "src": "https://hypamoon.com/icon-192.png", "mimeType": "image/png", "sizes": ["192x192"] },
+    { "src": "https://hypamoon.com/favicon.svg", "mimeType": "image/svg+xml", "sizes": ["any"] }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://api.hypamoon.com/api/v1/mcp"
+    }
+  ]
+}
