@@ -1,5 +1,7 @@
 # Hypamoon MCP server
 
+[![Hypamoon MCP connector, tool definition quality and endpoint health on Glama](https://glama.ai/mcp/connectors/com.hypamoon/hypamoon/badges/score.svg)](https://glama.ai/mcp/connectors/com.hypamoon/hypamoon)
+
 **The cloud your AI builds in.**
 
 Hypamoon is a hosted MCP server. Connect it once to Claude, ChatGPT, Cursor, VS Code or Copilot, and your chat can put what it builds live: a site on its own address, an app with sign-in and a database, forms that save somewhere, payments, email from your own domain, a phone number with voice AI, and a connection to the software your business already uses.

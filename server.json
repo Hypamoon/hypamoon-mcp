@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.hypamoon/hypamoon",
   "title": "Hypamoon",
-  "description": "Where AI lives: sites, apps, data, domains, email, payments and a phone line, live from your chat.",
-  "version": "1.0.1",
+  "description": "The cloud your AI builds in: sites, apps with a database, payments, email and your own software.",
+  "version": "1.0.2",
   "websiteUrl": "https://hypamoon.com/docs/mcp",
   "repository": {
     "url": "https://github.com/Hypamoon/hypamoon-mcp",
